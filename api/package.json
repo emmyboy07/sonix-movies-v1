@@ -1,0 +1,13 @@
+{
+  "name": "movie-search-api",
+  "version": "1.0.0",
+  "description": "Simple movie search API proxy for Vercel deployment",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
